@@ -1,0 +1,5 @@
+﻿  m_path.cpp
+d:\a_from_mac\for_windows\for_vs\v2_for_producing_data\v2_for_producing_data\m_path.cpp(53): error C2374: “new_node”: 重定义；多次初始化
+  d:\a_from_mac\for_windows\for_vs\v2_for_producing_data\v2_for_producing_data\m_path.cpp(44): note: 参见“new_node”的声明
+d:\a_from_mac\for_windows\for_vs\v2_for_producing_data\v2_for_producing_data\m_path.cpp(93): error C2374: “new_node”: 重定义；多次初始化
+  d:\a_from_mac\for_windows\for_vs\v2_for_producing_data\v2_for_producing_data\m_path.cpp(86): note: 参见“new_node”的声明

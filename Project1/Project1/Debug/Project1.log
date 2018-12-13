@@ -1,0 +1,4 @@
+﻿  gauss_num.cpp
+z:\坤鑫\已有轮子\gauss_num.cpp(22): warning C4101: “p”: 未引用的局部变量
+z:\坤鑫\已有轮子\gauss_num.cpp(19): warning C4101: “i”: 未引用的局部变量
+  Project1.vcxproj -> \\Mac\Home\Desktop\for_windows\for_vs\Project1\Debug\Project1.exe

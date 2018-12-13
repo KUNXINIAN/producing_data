@@ -1,0 +1,8 @@
+﻿  main.cpp
+  num_of_gauss.cpp
+\\mac\home\desktop\for_windows\for_vs\project_for_producing_data\project_for_producing_data\num_of_gauss.cpp(33): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+\\mac\home\desktop\for_windows\for_vs\project_for_producing_data\project_for_producing_data\num_of_gauss.cpp(25): warning C4101: “p”: 未引用的局部变量
+\\mac\home\desktop\for_windows\for_vs\project_for_producing_data\project_for_producing_data\num_of_gauss.cpp(22): warning C4101: “j”: 未引用的局部变量
+\\mac\home\desktop\for_windows\for_vs\project_for_producing_data\project_for_producing_data\num_of_gauss.cpp(22): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+  Project_for_producing_data.vcxproj -> \\Mac\Home\Desktop\for_windows\for_vs\Project_for_producing_data\Debug\Project_for_producing_data.exe
